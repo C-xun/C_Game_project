@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/" lang="*">
+        <file>button.png</file>
+        <file>card.png</file>
+        <file>farmer.png</file>
+        <file>ic_close.png</file>
+        <file>lord.png</file>
+        <file>res.qrc</file>
+        <file>table.png</file>
+        <file>background_1.png</file>
+        <file>background.png</file>
+        <file>close.png</file>
+        <file>child_1.png</file>
+        <file>teacher_1.png</file>
+        <file>lord.ico</file>
+    </qresource>
+</RCC>
